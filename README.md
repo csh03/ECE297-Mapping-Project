@@ -20,6 +20,7 @@ Please note that this project's code is **NOT** open-source, as it is property o
 
 **Pathfinding:** A* pathfinding algorithm was used, utilizing heuristics based on a graph node's distance to the final destination. This resulted in a 2x improvement over regular Djikstra's algorithm. The program can also find optimal solutions to the Travelling Courier problem, a variation on the NP-Hard Travelling Salesman Problem in which some graph nodes must be visited before others. At the start, it completes a Greedy search algorithm. The results of that algorithm are then passed into a combination of Two-Opt peturbations and Simulated Annealing hill climbing algorithms in an attempt to exit local minima. 
 
+## Images
 | Points of Interest  | Metro Stations |
 | ------------- | ------------- |
 | ![POI](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/zoomin.png)  | ![Metro Stations](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/metro.png) |
