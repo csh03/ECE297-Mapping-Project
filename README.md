@@ -17,5 +17,13 @@ Please note that this project's code is **NOT** open-source, as it is property o
 
 | Points of Interest  | Metro Stations |
 | ------------- | ------------- |
-| ![POI](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/metro.png)  | ![Metro Stations](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/metro.png) |
+| ![POI](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/zoomin.png)  | ![Metro Stations](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/metro.png) |
+
+| Swapping Maps  | Finding Directions |
+| ------------- | ------------- |
+| ![Swap Maps](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/swapmapgif.gif)  | ![Enter Directions](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/enterdirections.png) |
+
+| Directions Demo  | Directions Result |
+| ------------- | ------------- |
+| ![Directions Demo](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/directionsgif.gif)  | ![Directions Result](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/directions%20result%20(2).png) |
 
