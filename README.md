@@ -15,6 +15,9 @@ Please note that this project's code is **NOT** open-source, as it is property o
 * Search bar to find specific locations.
 * Mapping coverage for 15+ cities across the globe. 
 
+## Algorithms
+**Drawing Graphics:** The program utilizes a spatial hashing algorithm - city streets and features are hashed into grid cells on the map. This results in incredibly fast performance, with the program maintaining framerates around 30-50 fps on most maps. 
+
 | Points of Interest  | Metro Stations |
 | ------------- | ------------- |
 | ![POI](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/zoomin.png)  | ![Metro Stations](https://github.com/csh03/ECE297---Mapping-101-4/blob/main/screenshots/metro.png) |
