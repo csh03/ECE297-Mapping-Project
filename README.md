@@ -5,7 +5,7 @@ Youtube demo link: https://www.youtube.com/watch?v=HnfiJs22vbI&ab_channel=Christ
 
 Mapping 101+4 is a geographic information system (GIS) that provides users with map information for cities all around the globe. Developed in C++ with the GTK graphics library. Map data is courtesy of the OpenStreetMap API. Mapping 101+4 allows users to view street names, points of interest, and transit lines, as well as providing directions functionality, similar to common GPS applications today.
 
-Please note that this project's code is **NOT** open-source, as it is property of the ECE297 course at the University of Toronto. Please contact chris.shih@mail.utoronto.ca directly for further inquiries. 
+Please note that this project's code is **NOT** open-source, as it is property of the ECE297 course at the University of Toronto. Please contact chris.shih@mail.utoronto.ca or winson.tang@mail.utoronto.ca directly for further inquiries. 
 
 ## Features
 * Mouse drag to pan across city map.
